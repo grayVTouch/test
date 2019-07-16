@@ -10,4 +10,3 @@
 
 
 echo 'ri';
-echo 'hello';
