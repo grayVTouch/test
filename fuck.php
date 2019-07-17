@@ -7,3 +7,4 @@
  */
 echo 'nihao';
 echo 'cao';
+echo 'rinimeide';
