@@ -15,4 +15,5 @@ echo 'fuck you';
 echo 'cao';
 echo 'gun!!';
 echo 'wohenhaoa !!';
-echo 'wohenhao';
+echo 'wohenhao !!';
+echo "fuckyou";
