@@ -5,6 +5,3 @@
  * Date: 2019/7/16
  * Time: 16:29
  */
-echo 'nihao';
-echo 'cao';
-echo 'rinimeide';
