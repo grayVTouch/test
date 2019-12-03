@@ -15,3 +15,4 @@ echo "gundao";
 echo 'ri';
 echo 'hi';
 echo 'fuck you';
+echo 'hello boys and girls';
